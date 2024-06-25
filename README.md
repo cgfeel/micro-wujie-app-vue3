@@ -1,19 +1,5 @@
-# vue-project
+# micro-wujie-app-vue3
 
-## Project setup
-```
-npm install
-```
+一个基于 `wujie` 的 `vue3` 子应用演示，完整内容查看微前端主仓库：https://github.com/cgfeel/zf-micro-app
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`wujie` 总结见基座主应用：https://github.com/cgfeel/micro-wujie-substrate
